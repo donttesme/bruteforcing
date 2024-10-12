@@ -3,4 +3,4 @@ Tryhackme Room Enumeration & Brute Force
 
 
 Usage:
-~$python3 sigamigo.py <username>
+~$python3 sigamigo.py username
