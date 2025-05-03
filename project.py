@@ -4,8 +4,6 @@ import aiohttp
 import asyncio
 import pyfiglet
 
-ascii_banner = pyfiglet.figlet_format("Bruteforcing http in 2k24\n by  Mahmoud\n and ALhussein\n ")
-print(ascii_banner)
 
 async def check_pass(url,username,path): 
 
